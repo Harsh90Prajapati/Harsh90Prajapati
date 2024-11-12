@@ -13,9 +13,6 @@ I’m a **Frontend Developer** specializing in building dynamic, responsive webs
 - **Frontend:** React.js, Redux, Tailwind CSS, JavaScript, HTML5, CSS3
 - **Tools & Platforms:** Git, GitHub, Vite, Firebase, Figma
 
-## 🏆 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🔗 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-prajapati-032746223/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://664c6018a4f26baea4bcfc44--melodious-cranachan-29785c.netlify.app/#)
