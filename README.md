@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm [Harsh Prajapati]!
+
+I’m a **Frontend Developer** specializing in building dynamic, responsive websites and applications using modern web technologies.
+
+## 🚀 About Me:
+- 🔭 I’m currently working on: [MovieStreamer](https://moviestreamer-811f4.web.app)
+- 🌱 I’m learning: [ Redux, Next.js]
+- 👯 I’m looking to collaborate on: Open-source projects that focus on web development.
+- 💬 Ask me about: Frontend development, React, Tailwind CSS, and Firebase.
+- ⚡ Fun fact: I have a degree in Sociology but fell in love with coding!
+
+## 🛠️ Technologies & Tools:
+- **Frontend:** React.js, Redux, Tailwind CSS, JavaScript, HTML5, CSS3
+- **Tools & Platforms:** Git, GitHub, Vite, Firebase, Figma
+
+## 🏆 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🔗 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/harsh-prajapati-032746223/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Portfolio&logoColor=white)]([https://your-portfolio.com](https://664c6018a4f26baea4bcfc44--melodious-cranachan-29785c.netlify.app/#))
+
+
 
 <!--
 **Harsh90Prajapati/Harsh90Prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
