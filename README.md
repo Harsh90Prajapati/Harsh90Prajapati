@@ -3,11 +3,9 @@
 I’m a **Frontend Developer** specializing in building dynamic, responsive websites and applications using modern web technologies.
 
 ## 🚀 About Me:
-- 🔭 I’m currently working on: [MovieStreamer](https://moviestreamer-811f4.web.app)
 - 🌱 I’m learning: [ Redux, Next.js]
 - 👯 I’m looking to collaborate on: Open-source projects that focus on web development.
 - 💬 Ask me about: Frontend development, React, Tailwind CSS, and Firebase.
-- ⚡ Fun fact: I have a degree in Sociology but fell in love with coding!
 
 ## 🛠️ Technologies & Tools:
 - **Frontend:** React.js, Redux, Tailwind CSS, JavaScript, HTML5, CSS3
